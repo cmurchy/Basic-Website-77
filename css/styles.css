@@ -1,4 +1,42 @@
+.container_12 {
+		background: url("../img/woodgrain.png");
+	}
+	
+	
+/* LOGO */
+#logo {
+	background: #3C6;
+}
+
+/* CO. NAME */
+#coname {
+	background: #939;
+}
+
+/* NAV */
+#nav {
+	background: #4D5;
+}
+
+/* ASIDE */
+#aside {
+	background: #C63
+}
+
+/* LOGO */
+img {
+	border: 10px solid black;
+	padding: 10px;
+	margin: 20px;
+	border-radius: 150px;
+	box-shadow: 10px 10px 10px pink, -10px -10px 0px green;
+}
+
 /* Main Navigation */
+#main {
+	background: #69C;
+}
+
 li {
   background: orange;
   display: inline;
